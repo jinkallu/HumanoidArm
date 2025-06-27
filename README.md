@@ -11,6 +11,23 @@ HumanoidArm is an experimental research project that simulates a "robotic brain"
 Inspired by the layered complexity of human hand movements—seeing, planning, and grasping—the goal is to explore how vision, memory, motion planning, and tactile feedback can be integrated in a robotics simulation. The project is part of a personal series exploring challenging, unfinished (but valuable) robotics ideas.
 
 ---
+![Simulation](./images/1.png)  
+*Figure 1: Simulation of the agent in action*
+
+![Simulation](./images/2.png)  
+*Figure 2: Mujoco RGB Camera*
+
+![Simulation](./images/3.png)  
+*Figure 3: Detectron2 detected sports ball and segmented it*
+
+![Simulation](./images/4.png)  
+*Figure 4: Mapped 2D segmented region to depth image*
+
+![Simulation](./images/5.png)  
+*Figure 5: Converted visible depth image to point cloud*
+
+![Simulation](./images/6.png)  
+*Figure 6: Predicted full 3D shape of ball from partial point cloud. Blue dots are the partial point cloud. Red dots are the full predicted point cloud.*
 
 ## Key Features
 
