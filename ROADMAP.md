@@ -1,0 +1,5 @@
+- Reproducible MuJoCo environment
+- Reliable RGB-D perception and 3D object state
+- Improved grasp planning and tactile control
+- Prediction–action–correction control loop
+- Automated tests, benchmarks, and documentation
